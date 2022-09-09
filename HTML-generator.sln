@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML-generator", "HTML-generator\HTML-generator.csproj", "{57876B1B-5F1E-4D30-A75B-5B816757CFC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57876B1B-5F1E-4D30-A75B-5B816757CFC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57876B1B-5F1E-4D30-A75B-5B816757CFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57876B1B-5F1E-4D30-A75B-5B816757CFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57876B1B-5F1E-4D30-A75B-5B816757CFC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {994E3A24-A93A-4EF1-AD41-358894851C76}
+	EndGlobalSection
+EndGlobal
